@@ -2,7 +2,7 @@
    يخلي البرنامج قابل للتثبيت كتطبيق. الصفحة تُجلب من الشبكة دائمًا أولاً
    (حتى توصل التحديثات فورًا)، والنسخة المحفوظة تُستخدم فقط عند انقطاع الإنترنت.
    ملفات الحسابات (users.json) وطلبات Google وأي رابط خارجي لا تُخزَّن أبدًا. */
-const CACHE = 'bio5-pwa-v3';
+const CACHE = 'bio5-pwa-v4';
 const SHELL = ['./', './index.html', './install.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png'];
 
